@@ -26,9 +26,9 @@
 
 	<ItemGroup>
 		<PackageReference Include="EmbedIO" Version="3.5.2" />
-		<PackageReference Include="Microsoft.Native.Quic.MsQuic.OpenSSL" Version="2.5.7" />
-		<PackageReference Include="VpnHood.Core.Server.Access" Version="7.7.798" />
-		<PackageReference Include="VpnHood.Core.Toolkit" Version="7.7.798" />
+		<PackageReference Include="Microsoft.Native.Quic.MsQuic.OpenSSL" Version="2.5.8" />
+		<PackageReference Include="VpnHood.Core.Server.Access" Version="8.0.818" />
+		<PackageReference Include="VpnHood.Core.Toolkit" Version="8.0.818" />
 	</ItemGroup>
 
 
